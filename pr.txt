@@ -1,0 +1,20 @@
+.
+├── Bookshelf
+│   └── BeginnersGuide-4thEd-Eng_v2%20(1).pdf
+├── Desktop
+├── Documents
+├── Downloads
+├── kiarashetemad.txt
+├── midtermExam-301
+├── midtermPi.txt
+├── mt.txt
+├── Music
+├── Pictures
+├── pr2.txt
+├── pr.txt
+├── Public
+├── rs1.txt
+├── Templates
+└── Videos
+
+10 directories, 7 files

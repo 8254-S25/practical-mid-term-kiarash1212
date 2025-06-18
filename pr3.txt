@@ -1,0 +1,5 @@
+total 16
+4 drwxr-xr-x  4 root          root          4096 Jun 18 11:10 .
+4 drwxr-xr-x 18 root          root          4096 Feb 20  2023 ..
+4 drwxr-xr-x  2 kiarashetemad kiarashetemad 4096 Jun 18 11:10 kiarashetemad
+4 drwxr-xr-x 16 pi            pi            4096 Jun 18 11:17 pi
